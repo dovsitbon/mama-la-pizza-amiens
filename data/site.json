@@ -1,0 +1,26 @@
+{
+  "_doc": "Coordonnées et réglages généraux. rating : note Google relevée à la main (mettre à jour value, count et checked). delivery : liens des plateformes (laisser vide pour masquer un bouton). whatsapp : numéro portable international sans + (ex. 33612345678) ; vide tant qu'elle n'a pas donné de portable.",
+  "name": "Mama La Pizza",
+  "fullName": "Mama La Pizza Amiens",
+  "url": "https://mama-la-pizza-amiens.vercel.app",
+  "phone": "03 22 40 33 94",
+  "phoneIntl": "+33322403394",
+  "whatsapp": "",
+  "email": "",
+  "address": { "street": "15 rue des Otages", "postalCode": "80000", "city": "Amiens", "district": "Centre-ville", "region": "Hauts-de-France", "country": "FR" },
+  "geo": { "lat": 49.8907, "lng": 2.2985 },
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mama+La+Pizza+15+rue+des+Otages+80000+Amiens",
+  "mapsEmbed": "https://www.google.com/maps?q=Mama+La+Pizza,+15+rue+des+Otages,+80000+Amiens&z=16&output=embed",
+  "instagram": "https://www.instagram.com/mamalapizzamiens/",
+  "instagramHandle": "@mamalapizzamiens",
+  "tiktok": "https://www.tiktok.com/@mamalapizzamiens",
+  "facebook": "https://www.facebook.com/p/Mama-La-Pizza-Amiens-61586622160629/",
+  "rating": { "value": 4.7, "count": 274, "source": "Google", "checked": "2026-11-05" },
+  "priceRange": "10–20 €",
+  "delivery": {
+    "ubereats": "https://www.ubereats.com/fr/store/mama-la-pizza/RmmMsMZTX6-01NFlP8zRog",
+    "deliveroo": ""
+  },
+  "order": { "minutesAhead": 20, "stepMinutes": 15, "daysAhead": 3, "maxPerLine": 20 },
+  "legal": { "company": "Mama La Pizza", "siret": "", "director": "", "host": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis" }
+}

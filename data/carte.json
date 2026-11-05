@@ -1,0 +1,354 @@
+{
+ "_doc": "La carte. Noms, ingrédients et prix relevés sur sa page Uber Eats le 5 novembre 2026 (À CONFIRMER : les prix des plateformes sont souvent plus élevés qu’au comptoir, et la boutique propose les tailles S, L, XL et XXL). Textes dans locales/*.json → products. tags : vegetarian, spicy. photo : chemins essayés dans l’ordre (ex. /media/pizzas/reine.jpg) ; vide = pas de vignette. pizza : compte comme pizza pour le formulaire et les offres.",
+ "checked": "2026-11-05",
+ "source": "Uber Eats",
+ "categories": [
+  {
+   "id": "tomate",
+   "items": [
+    "marguerite",
+    "pecheurs",
+    "veggie",
+    "reine",
+    "new-yorkaise",
+    "junito-di-mare",
+    "rabajoie",
+    "fromaggi",
+    "nanada"
+   ]
+  },
+  {
+   "id": "creme",
+   "items": [
+    "chicago",
+    "mielleuse",
+    "mohtiflette",
+    "raquette",
+    "fameuse",
+    "indienne",
+    "haaland",
+    "chicken-supreme",
+    "warchis",
+    "boisee"
+   ]
+  },
+  {
+   "id": "speciales",
+   "items": [
+    "bbqueen",
+    "andalouse",
+    "tasty-chicky",
+    "d3-new-yorkaise",
+    "d3-chicago",
+    "d3-nanada",
+    "d3-margherite"
+   ]
+  },
+  {
+   "id": "cote",
+   "items": [
+    "potatoes",
+    "mozza-sticks",
+    "tenders",
+    "nuggets",
+    "box-mixte",
+    "box-fromaggi",
+    "box-poulet"
+   ]
+  },
+  {
+   "id": "desserts",
+   "items": [
+    "tiramisu",
+    "tarte-daim",
+    "choc-barr",
+    "d3-sucree"
+   ]
+  },
+  {
+   "id": "boissons",
+   "items": [
+    "coca",
+    "oasis-tropical",
+    "oasis-pomme-cassis",
+    "fanta"
+   ]
+  }
+ ],
+ "items": {
+  "marguerite": {
+   "price": 12.5,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [],
+   "pizza": true
+  },
+  "pecheurs": {
+   "price": 13.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "veggie": {
+   "price": 13.5,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [],
+   "pizza": true
+  },
+  "reine": {
+   "price": 13.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "new-yorkaise": {
+   "price": 13.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "junito-di-mare": {
+   "price": 13.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "rabajoie": {
+   "price": 13.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "fromaggi": {
+   "price": 13.5,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [],
+   "pizza": true
+  },
+  "nanada": {
+   "price": 14.5,
+   "tags": [
+    "spicy"
+   ],
+   "photo": [],
+   "pizza": true
+  },
+  "chicago": {
+   "price": 14.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "mielleuse": {
+   "price": 14.5,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [],
+   "pizza": true
+  },
+  "mohtiflette": {
+   "price": 14.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "raquette": {
+   "price": 14.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "fameuse": {
+   "price": 14.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "indienne": {
+   "price": 14.5,
+   "tags": [
+    "spicy"
+   ],
+   "photo": [],
+   "pizza": true
+  },
+  "haaland": {
+   "price": 14.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "chicken-supreme": {
+   "price": 14.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "warchis": {
+   "price": 14.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "boisee": {
+   "price": 14.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "bbqueen": {
+   "price": 14.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "andalouse": {
+   "price": 14.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "tasty-chicky": {
+   "price": 14.5,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "d3-new-yorkaise": {
+   "price": 12.8,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "d3-chicago": {
+   "price": 12.8,
+   "tags": [],
+   "photo": [],
+   "pizza": true
+  },
+  "d3-nanada": {
+   "price": 12.8,
+   "tags": [
+    "spicy"
+   ],
+   "photo": [],
+   "pizza": true
+  },
+  "d3-margherite": {
+   "price": 12.8,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [],
+   "pizza": true
+  },
+  "potatoes": {
+   "price": 5.5,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [],
+   "pizza": false
+  },
+  "mozza-sticks": {
+   "price": 7,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [],
+   "pizza": false
+  },
+  "tenders": {
+   "price": 7,
+   "tags": [],
+   "photo": [],
+   "pizza": false
+  },
+  "nuggets": {
+   "price": 9,
+   "tags": [],
+   "photo": [],
+   "pizza": false
+  },
+  "box-mixte": {
+   "price": 13.5,
+   "tags": [],
+   "photo": [],
+   "pizza": false
+  },
+  "box-fromaggi": {
+   "price": 13.5,
+   "tags": [],
+   "photo": [],
+   "pizza": false
+  },
+  "box-poulet": {
+   "price": 16,
+   "tags": [],
+   "photo": [],
+   "pizza": false
+  },
+  "tiramisu": {
+   "price": 4,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [],
+   "pizza": false
+  },
+  "tarte-daim": {
+   "price": 4,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [],
+   "pizza": false
+  },
+  "choc-barr": {
+   "price": 11.5,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [],
+   "pizza": false
+  },
+  "d3-sucree": {
+   "price": 11.5,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [],
+   "pizza": false
+  },
+  "coca": {
+   "price": 2.5,
+   "tags": [],
+   "photo": [],
+   "pizza": false
+  },
+  "oasis-tropical": {
+   "price": 2.5,
+   "tags": [],
+   "photo": [],
+   "pizza": false
+  },
+  "oasis-pomme-cassis": {
+   "price": 2.5,
+   "tags": [],
+   "photo": [],
+   "pizza": false
+  },
+  "fanta": {
+   "price": 2.5,
+   "tags": [],
+   "photo": [],
+   "pizza": false
+  }
+ }
+}

@@ -1,0 +1,330 @@
+{
+  "meta": {
+    "title": "Pizzeria in Amiens, free delivery and open late | Mama La Pizza",
+    "description": "Mama La Pizza, pizzeria at 15 rue des Otages in Amiens: homemade dough, fresh toppings, Detroit-style pizza. Free delivery, takeaway or dine-in, open until 1 am Thursday to Saturday. Rated 4.7/5 on Google.",
+    "ogAlt": "A Mama La Pizza pizza in its box, seen from above"
+  },
+  "intro": { "skip": "Skip" },
+  "announce": {
+    "close": "Close the banner",
+    "default": "Free delivery in Amiens · Buy one XXL pizza, get one free, dine-in or takeaway"
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "close": "Close the menu",
+    "home": "Mama La Pizza, home",
+    "carte": "Menu",
+    "offres": "Deals",
+    "livraison": "Delivery",
+    "infos": "Info",
+    "orderCta": "Order",
+    "takeaway": "Takeaway",
+    "call": "Call",
+    "instagram": "Mama La Pizza on Instagram",
+    "lang": "Language"
+  },
+  "hero": {
+    "eyebrow": "Homemade dough · Fresh toppings · Amiens",
+    "title": "The pizza Amiens can't get enough of",
+    "sub": "Generous, loaded, served with a smile. Until 1 am at the weekend.",
+    "ctaOrder": "Order",
+    "ctaMenu": "See the menu",
+    "rating": "{value}/5 on Google",
+    "ratingCount": "{count} reviews",
+    "ratingNote": "Google rating checked on {date}",
+    "delivery": "Free delivery",
+    "photoAlt": "Ham, mushroom and mozzarella pizza from Mama La Pizza, seen from above"
+  },
+  "status": {
+    "open": "Open",
+    "closed": "Closed",
+    "until": "until {time}",
+    "untilTonight": "until {time} tonight",
+    "opens": "opens {day} at {time}",
+    "today": "today",
+    "tomorrow": "tomorrow"
+  },
+  "tiles": {
+    "title": "The menu at a glance",
+    "items": {
+      "tomate": "Tomato base",
+      "creme": "Cream base",
+      "speciales": "Specials",
+      "desserts": "Desserts",
+      "boissons": "Drinks",
+      "menus": "Meal deals"
+    }
+  },
+  "services": {
+    "title": "How do you want your pizza?",
+    "items": [
+      { "id": "delivery", "title": "Free delivery", "text": "Anywhere in Amiens, no delivery fee." },
+      { "id": "takeaway", "title": "Takeaway", "text": "Order, then pick it up hot." },
+      { "id": "onsite", "title": "Dine in", "text": "Pink room, neon bear, oven in sight." },
+      { "id": "phone", "title": "03 22 40 33 94", "text": "One call and it's in the oven." }
+    ]
+  },
+  "carte": {
+    "eyebrow": "The menu",
+    "title": "Pick a side",
+    "intro": "Tomato or cream, round or Detroit. Everything is made here, dough included.",
+    "tabsLabel": "Menu categories",
+    "tabs": {
+      "tomate": "Tomato base",
+      "creme": "Cream base",
+      "speciales": "Specials & Detroit",
+      "cote": "Sides",
+      "desserts": "Desserts",
+      "boissons": "Drinks"
+    },
+    "tabIntro": {
+      "tomate": "Tomato sauce, mozzarella and double cheese. The base that never lets you down.",
+      "creme": "Crème fraîche, stretchy cheese, generous toppings. For the nights you don't count.",
+      "speciales": "Our own recipes, and the Detroit: thick dough baked in a square pan, crispy cheesy edges.",
+      "cote": "To nibble on the side, or to share if you're feeling kind.",
+      "desserts": "There's always a little room left.",
+      "boissons": "Ice-cold cans."
+    },
+    "add": "Order this",
+    "addLabel": "Order: {name}",
+    "sizes": "Pizzas come in S, L, XL and XXL at the counter.",
+    "allergens": "Allergens (gluten, milk, egg, fish, seafood…): ask us at the counter or on the phone before you order.",
+    "checked": "Prices checked on {date}, subject to change.",
+    "seeFull": "The full menu on one page",
+    "detroit": "Detroit"
+  },
+  "tags": { "vegetarian": "Vegetarian", "spicy": "Spicy" },
+  "products": {
+    "marguerite": { "name": "Margherita", "desc": "Tomato sauce, mozzarella, double cheese, oregano." },
+    "pecheurs": { "name": "Pêcheurs", "desc": "Tomato sauce, tuna, olives, mozzarella, double cheese." },
+    "veggie": { "name": "La Veggie", "desc": "Tomato sauce, mushrooms, onion, cherry tomatoes, artichoke hearts, mozzarella, double cheese." },
+    "reine": { "name": "La Reine", "desc": "Tomato sauce, turkey ham, mushrooms, mozzarella, double cheese." },
+    "new-yorkaise": { "name": "La New-Yorkaise", "desc": "Tomato sauce, pepperoni, mozzarella, double cheese." },
+    "junito-di-mare": { "name": "Junito di Mare", "desc": "Tomato sauce, seafood in parsley butter, mozzarella, double cheese." },
+    "rabajoie": { "name": "Rabajoie", "desc": "Tomato sauce, minced beef, fried egg, olives, mozzarella, double cheese." },
+    "fromaggi": { "name": "Fromaggi", "desc": "Tomato sauce, mozzarella, gorgonzola, goat's cheese, emmental, double cheese." },
+    "nanada": { "name": "Nanada", "desc": "Tomato sauce, house-marinated minced beef, merguez, chicken, peppers, egg, mozzarella, double cheese." },
+    "chicago": { "name": "La Chicago", "desc": "Crème fraîche, minced beef, turkey ham, egg, cheddar, mozzarella, double cheese." },
+    "mielleuse": { "name": "La Mielleuse", "desc": "Crème fraîche, goat's cheese, honey, mozzarella, double cheese." },
+    "mohtiflette": { "name": "Mohtiflette", "desc": "Crème fraîche, smoked veal, reblochon, potatoes, onion, mozzarella, double cheese." },
+    "raquette": { "name": "La Raquette", "desc": "Crème fraîche, smoked chicken, sliced chicken, potatoes, raclette cheese, mozzarella, double cheese." },
+    "fameuse": { "name": "La Fameuse", "desc": "Crème fraîche, smoked chicken, potatoes, bacon bits, mozzarella, double cheese." },
+    "indienne": { "name": "L'Indienne", "desc": "Crème fraîche, sliced chicken, red and green peppers, onion, curry sauce, mozzarella, double cheese." },
+    "haaland": { "name": "La Haaland", "desc": "Crème fraîche, smoked salmon, mozzarella, double cheese." },
+    "chicken-supreme": { "name": "Chicken Suprême", "desc": "Crème fraîche, smoked chicken, extra chicken, onion, red and green peppers, double cheese." },
+    "warchis": { "name": "Warchi's", "desc": "Crème fraîche, raclette cheese, bacon, merguez, mushrooms, mozzarella, double cheese." },
+    "boisee": { "name": "La Boisée", "desc": "House gruyère sauce, crème fraîche, roast chicken, peppers, fresh tomatoes, mozzarella, double cheese." },
+    "bbqueen": { "name": "La BBQueen", "desc": "Barbecue sauce, minced beef, potatoes, red onion, cheddar, mozzarella." },
+    "andalouse": { "name": "L'Andalouse", "desc": "Andalouse sauce, crème fraîche, seasoned minced beef, chicken, emmental, mozzarella, double cheese." },
+    "tasty-chicky": { "name": "Tasty Chicky", "desc": "Special sauce, chicken pieces, melted mozzarella, crispy onions, herbs." },
+    "d3-new-yorkaise": { "name": "Detroit New-Yorkaise", "desc": "Detroit dough, tomato sauce, pepperoni, double cheese." },
+    "d3-chicago": { "name": "Detroit Chicago", "desc": "Detroit dough, crème fraîche, minced beef, turkey ham, cheddar, egg, double cheese." },
+    "d3-nanada": { "name": "Detroit Nanada", "desc": "Detroit dough, tomato sauce, marinated minced beef, merguez, chicken, peppers, egg, double cheese." },
+    "d3-margherite": { "name": "Detroit Margherita", "desc": "Detroit dough, tomato sauce, mozzarella, oregano, double cheese." },
+    "potatoes": { "name": "Potato wedges", "desc": "Seasoned potato wedges." },
+    "mozza-sticks": { "name": "Mozzarella sticks", "desc": "5 breaded mozzarella sticks, melting inside." },
+    "tenders": { "name": "Chicken tenders", "desc": "4 breaded chicken fillets." },
+    "nuggets": { "name": "Nuggets", "desc": "9 crispy chicken nuggets." },
+    "box-mixte": { "name": "Mixed box", "desc": "6 nuggets, 6 camembert bites, 3 mozzarella sticks." },
+    "box-fromaggi": { "name": "Fromaggi box", "desc": "6 chili cheese bites, 6 camembert bites, 3 mozzarella sticks." },
+    "box-poulet": { "name": "Chicken box", "desc": "8 nuggets, 5 tenders, 3 wings." },
+    "tiramisu": { "name": "Raspberry pistachio tiramisu", "desc": "Pistachio mascarpone cream, biscuits, raspberry." },
+    "tarte-daim": { "name": "Daim tart", "desc": "Soft and crunchy, a cult classic." },
+    "choc-barr": { "name": "Choc Barr", "desc": "Half-moon pizza dough, melted chocolate, chocolate bar pieces, crunchy bits." },
+    "d3-sucree": { "name": "Sweet Detroit", "desc": "The Detroit as a dessert: pick a base and a topping." },
+    "coca": { "name": "Coca-Cola", "desc": "33 cl" },
+    "oasis-tropical": { "name": "Oasis Tropical", "desc": "33 cl" },
+    "oasis-pomme-cassis": { "name": "Oasis apple blackcurrant", "desc": "33 cl" },
+    "fanta": { "name": "Fanta orange", "desc": "33 cl" }
+  },
+  "offers": {
+    "eyebrow": "Deals",
+    "title": "Mama's good deals",
+    "intro": "A deal nearly every day. Mama can't say no.",
+    "today": "Today",
+    "modes": { "onsite": "Dine-in", "takeaway": "Takeaway", "delivery": "Delivery" },
+    "lunch": "Lunchtime",
+    "fine": "Deals can't be combined. Full terms at the counter.",
+    "items": {
+      "mardi": { "title": "Tuesdays", "text": "On every pizza.", "bar": "It's Tuesday: 20% off every pizza, dine-in and delivery" },
+      "jeudi": { "title": "Thursdays", "text": "On XL and XXL pizzas.", "bar": "It's Thursday: 20% off XL and XXL pizzas, dine-in, takeaway or delivery" },
+      "etudiant": { "title": "Student deal", "text": "Any size S pizza or a Detroit, plus a drink." },
+      "midi": { "title": "Lunch break", "text": "A size L pizza and a drink, Monday to Friday, 11:30 am to 2:30 pm." },
+      "xxl": { "title": "XXL: 1 + 1", "text": "Buy one XXL pizza, get the second one free." }
+    }
+  },
+  "dough": {
+    "eyebrow": "Homemade dough",
+    "title": "Made here, every day",
+    "p1": "Our dough is made on site, in the kitchen you can see from the dining room. It rests, then goes into the oven when you order.",
+    "p2": "Toppings arrive fresh and we don't count them. Double cheese on everything: house rule.",
+    "facts": ["Homemade dough", "Fresh toppings", "Double cheese", "Sizes S to XXL"],
+    "photoAlt": "A Mama La Pizza cook mixing dough in a large bowl in the kitchen"
+  },
+  "reels": {
+    "eyebrow": "Seen on Instagram",
+    "title": "We cook. We film, too.",
+    "intro": "Behind the scenes, the customers, the late hours. With a healthy dose of self-mockery.",
+    "play": "Play the video: {title}",
+    "follow": "Follow {handle}",
+    "loading": "Loading the Instagram video…",
+    "items": {
+      "DcoTT_YMg2V": { "title": "The employee who sticks to his hours", "alt": "Two Mama La Pizza staff tidying the kitchen at 9:59 pm" },
+      "DcvdU2ioJ8c": { "title": "Clubbing at 1 am? No thanks", "alt": "A customer eating pizza late at night at Mama La Pizza" },
+      "DdO8WLEMc9L": { "title": "When the customer is Spanish", "alt": "A pizza chef taking a pizza out of the oven" },
+      "DbQzveFM-rT": { "title": "The till, Saturday, 1 am", "alt": "A server in front of the open till on a Saturday night" }
+    }
+  },
+  "order": {
+    "eyebrow": "Order",
+    "title": "Three ways to get your pizza",
+    "intro": "The phone is still the fastest. We pick up during opening hours.",
+    "call": { "title": "By phone", "text": "Free delivery in Amiens, or takeaway.", "cta": "Call to order" },
+    "platform": { "title": "On Uber Eats", "text": "Already got the app? Your order is two taps away.", "cta": "Order on Uber Eats" },
+    "form": { "title": "Takeaway, online", "text": "Pick your pizzas and a pickup time. We'll call you back to confirm." },
+    "closedNote": "You can get your order ready now for the next opening.",
+    "fields": {
+      "lines": "Your order",
+      "item": "Item",
+      "size": "Size",
+      "qty": "Quantity",
+      "remove": "Remove",
+      "addLine": "Add an item",
+      "day": "Pickup day",
+      "time": "Pickup time",
+      "name": "Your first name",
+      "phone": "Your phone number",
+      "email": "Email (to get a summary)",
+      "message": "Anything else?",
+      "messagePh": "No olives, well done, cut in 8…",
+      "optional": "optional",
+      "submit": "Send my order",
+      "sending": "Sending…",
+      "noTime": "No time slots left that day."
+    },
+    "sizes": { "S": "S", "L": "L", "XL": "XL", "XXL": "XXL" },
+    "estimate": "Estimated total: {total}",
+    "estimateNote": "Depending on size and today's deals, the exact price is confirmed on the phone. Pay when you pick up.",
+    "errors": {
+      "lines": "Add at least one item.",
+      "time": "Pick a pickup time.",
+      "name": "Tell us your first name.",
+      "phone": "Enter a valid phone number.",
+      "send": "Your order didn't go through. Call us on 03 22 40 33 94 and we'll take it right away."
+    },
+    "success": {
+      "title": "Got it, {name}!",
+      "text": "Your order has reached the kitchen. We'll call you on {phone} to confirm.",
+      "pending": "Thanks {name}! To be sure the kitchen has seen it, give us a call on 03 22 40 33 94.",
+      "again": "New order"
+    },
+    "mail": {
+      "subject": "Takeaway order",
+      "title": "New takeaway order",
+      "lines": "Order",
+      "pickup": "Pickup",
+      "total": "Estimated total",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Note",
+      "lang": "Customer language",
+      "confirmSubject": "Your Mama La Pizza order",
+      "confirmIntro": "Thanks {name}, we've got your order.",
+      "confirmOutro": "We'll call you to confirm the time and price. See you soon at 15 rue des Otages!"
+    }
+  },
+  "group": {
+    "eyebrow": "Group orders",
+    "title": "Birthday, office, party?",
+    "intro": "Tell us how many of you there are and when. We'll call you back with a plan.",
+    "fields": {
+      "type": "It's for",
+      "types": { "birthday": "A birthday", "office": "The office", "party": "A party", "other": "Something else" },
+      "people": "Number of people",
+      "date": "Date",
+      "name": "Your first name",
+      "phone": "Your phone number",
+      "message": "Cravings, time, delivery address…",
+      "submit": "Send the request"
+    },
+    "success": "Thanks! We'll call you back very soon to sort it all out.",
+    "pending": "Thanks! For a quicker answer, call us on 03 22 40 33 94.",
+    "error": "Your request didn't go through. Call us on 03 22 40 33 94."
+  },
+  "infos": {
+    "eyebrow": "Practical info",
+    "title": "Come and see us",
+    "address": "Address",
+    "phone": "Phone",
+    "hours": "Opening hours",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "closed": "Closed",
+    "lunch": "Lunch",
+    "evening": "Evening",
+    "delivery": "Delivery",
+    "deliveryText": "Free in Amiens when you order by phone. Also on Uber Eats.",
+    "access": "Getting here",
+    "accessText": "Right in the city centre, a few minutes' walk from Amiens station.",
+    "route": "Directions",
+    "mapTitle": "Mama La Pizza on the map, 15 rue des Otages, Amiens",
+    "facadeAlt": "The pink shopfront of Mama La Pizza, rue des Otages, Amiens",
+    "late": "Open until 1 am Thursday to Saturday"
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "You might be wondering…",
+    "items": [
+      { "q": "Where do you deliver, and is it really free?", "a": "Yes: delivery is free in Amiens when you order on 03 22 40 33 94. If you're on the outskirts, call us to check your address. On Uber Eats, the platform's own fees apply." },
+      { "q": "How long does delivery take?", "a": "It depends on the time and your address: we'll give you an estimate when you order. On Friday and Saturday nights, allow a little extra." },
+      { "q": "How late can I order?", "a": "Until midnight Sunday to Wednesday, and until 1 am Thursday to Saturday. At lunchtime we're open 11:30 am to 2:30 pm, Monday to Saturday." },
+      { "q": "How can I pay?", "a": "You pay at the counter or to the delivery driver: there's no online payment on this site. On Uber Eats, you pay in the app." },
+      { "q": "What about allergens?", "a": "Our pizzas contain gluten and milk, and some contain egg, fish or seafood. Tell us about your allergy when you order and we'll tell you what's possible." },
+      { "q": "Do you do group orders?", "a": "Yes, for birthdays, offices and parties. Fill in the short \"Group orders\" form or call us, and we'll have everything ready on time." }
+    ]
+  },
+  "footer": {
+    "tagline": "Pizzeria in the heart of Amiens. Homemade dough, fresh toppings, and a bear who never sleeps before 1 am.",
+    "menu": "Menu",
+    "legal": "Legal notice",
+    "orderOn": "Order on",
+    "rights": "© {year} Mama La Pizza · Amiens"
+  },
+  "pages": {
+    "carte": {
+      "slug": "menu",
+      "metaTitle": "Pizza menu and prices | Mama La Pizza Amiens",
+      "metaDescription": "The full Mama La Pizza menu in Amiens: tomato-base and cream-base pizzas, Detroit pizzas, sides, desserts and drinks, with prices. Free delivery.",
+      "eyebrow": "Mama La Pizza · Amiens",
+      "title": "The menu",
+      "lead": "All our pizzas, sharing boxes, desserts and drinks, with prices."
+    },
+    "legal": {
+      "slug": "legal",
+      "metaTitle": "Legal notice | Mama La Pizza",
+      "title": "Legal notice",
+      "editor": "Publisher",
+      "siret": "SIRET",
+      "director": "Publication director",
+      "host": "Hosting",
+      "data": "Personal data",
+      "dataText": "Information sent through the forms (first name, phone, email, order) is only used to prepare your order or request. It is never sold or used for advertising. To have it deleted, call 03 22 40 33 94.",
+      "photos": "Photos",
+      "photosText": "All photos and videos belong to Mama La Pizza.",
+      "toConfirm": "to be completed"
+    }
+  },
+  "alt": {
+    "pizza-reine-gros-plan": "Ham, mushroom and mozzarella pizza in its box, seen from above",
+    "pizza-poivrons-assiette": "Pizza with peppers and meat served on a white plate",
+    "pizza-chorizo-service": "A server holding a loaded pizza in the pink dining room",
+    "part-de-pizza-tard": "A customer biting into a slice of pepperoni pizza",
+    "salle-pizzas-a-partager": "Two customers sharing pizzas from pink boxes under the Mama La Pizza neon",
+    "salle-neon-rose": "The pink dining room and the Mama La Pizza bear neon",
+    "facade-rue-des-otages": "Mama La Pizza's pink shopfront on rue des Otages",
+    "pate-maison-petrin": "Homemade dough being prepared in the kitchen",
+    "four-a-pizza": "The pizza oven and boxes ready in the kitchen",
+    "pizza-en-salle": "A pepperoni pizza and a drink served in the dining room"
+  }
+}

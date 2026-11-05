@@ -1,0 +1,14 @@
+# Mama La Pizza (Amiens)
+
+> Pizzeria au 15 rue des Otages, 80000 Amiens (centre-ville). Pâte maison, produits frais, pizzas rondes et pizzas Détroit (pâte épaisse cuite en moule carré). Sur place, à emporter et livraison offerte dans Amiens pour les commandes par téléphone (03 22 40 33 94). Aussi sur Uber Eats. Note Google : 4,7/5 (274 avis, relevé le 5 novembre 2026). Prix : 10 à 20 € par personne.
+
+- Horaires : lundi à mercredi 11 h 30 – 14 h 30 et 18 h – minuit ; jeudi à samedi 11 h 30 – 14 h 30 et 18 h – 1 h ; dimanche 18 h – minuit.
+- Offres : mardi −20 % sur toutes les pizzas ; jeudi −20 % sur les pizzas XL et XXL ; menu étudiant 7,90 € le midi (pizza S ou Détroit + boisson) ; pause déj' 10,90 € (pizza L + boisson, lundi au vendredi midi) ; une pizza XXL achetée = une offerte (sur place ou à emporter).
+- Carte : pizzas base tomate (Marguerite 12,50 €, Reine, New-Yorkaise, Fromaggi…), base crème (Chicago, Mielleuse, Raquette, Mohtiflette… 14,50 €), Détroit (12,80 €), box à partager, desserts, boissons. Tailles S, L, XL, XXL.
+- Instagram : @mamalapizzamiens
+
+## Pages
+- [Accueil (FR)](https://mama-la-pizza-amiens.vercel.app/fr)
+- [La carte et les prix](https://mama-la-pizza-amiens.vercel.app/fr/carte)
+- [Home (EN)](https://mama-la-pizza-amiens.vercel.app/en)
+- [Menu and prices](https://mama-la-pizza-amiens.vercel.app/en/menu)

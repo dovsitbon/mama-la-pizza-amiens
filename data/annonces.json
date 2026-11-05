@@ -1,0 +1,4 @@
+{
+  "_doc": "Messages datés du bandeau du haut (fermeture, nouveauté). Le premier dont la période contient la date du jour passe avant l'offre du jour (data/offres.json → bar). from / to inclus (AAAA-MM-JJ). Textes fr et en.",
+  "items": []
+}
